@@ -1,16 +1,34 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ITZ FIZZ — GSAP Animation Assignment
 
-Currently, two official plugins are available:
+A premium single-page interactive experience built with React, Tailwind CSS and GSAP.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Premium hero section
+- GSAP entrance animation
+- Staggered statistics
+- Scroll-driven animation
+- GSAP ScrollTrigger
+- Scrub-based motion
+- Pinned hero section
+- Responsive design
+- GPU-friendly transform animations
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+- React
+- Vite
+- Tailwind CSS
+- GSAP
+- ScrollTrigger
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Run Locally
+
+npm install
+
+npm run dev
+
+## Production Build
+
+npm run build
